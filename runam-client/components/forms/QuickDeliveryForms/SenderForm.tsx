@@ -33,8 +33,7 @@ function SenderForm() {
     console.log("submit");
   };
 
-  return (
-    <div className="">
+  return (    <div className="">
       <div className="flex flex-col mt-10 gap-5 w-[30%] shadow-md rounded-[5px] mx-auto p-5">
         <h1 className="text-3xl">Sender Form</h1>
         <div className="flex flex-col gap-4">
